@@ -9,5 +9,5 @@ package com.mycompany.javaproject;
  * @author Administrator
  */
 public class NewClass {
-    // code here
+    // done.
 }
